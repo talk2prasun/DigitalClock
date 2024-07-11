@@ -1,4 +1,4 @@
-// Digital Clock Program
+// Digital Clock Program - Javascript
 
 function updateClock(){
 
